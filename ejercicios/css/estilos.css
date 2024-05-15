@@ -1,0 +1,22 @@
+.tarjeta{
+    width: 500px;
+    height: 700px;
+    background-color:rgba(236, 101, 157, 0.353);
+    border-radius: 30px;
+    overflow: hidden;
+}
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+} .tarjeta img{
+    width: 100%;
+ 
+}.tarjeta p{
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.tarjeta p:nth-child(2){
+    color: blueviolet;
+}
